@@ -1,0 +1,41 @@
+{
+  "name": "particle-api-js",
+  "homepage": "https://github.com/particle-iot/particle-api-js",
+  "authors": [
+    "Bryce Kahle <bryce@particle.io>"
+  ],
+  "description": "Particle API JavaScript library",
+  "main": "dist/particle.min.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "particle",
+    "IoT"
+  ],
+  "license": "LGPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/particle-iot/particle-api-js.git"
+  },
+  "version": "7.3.0",
+  "_release": "7.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v7.3.0",
+    "commit": "11ac61e2d975cb044144b4d851b61d5d6d792b46"
+  },
+  "_source": "https://github.com/spark/particle-api-js.git",
+  "_target": "^7.3.0",
+  "_originalSource": "particle-api-js",
+  "_direct": true
+}
