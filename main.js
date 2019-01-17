@@ -9,7 +9,7 @@ init();
 //getDevice();
 
 function init(){
-particle.login({username: 'mohideen.syed@rocketmail.com', password: 'Build18'}).then(
+particle.login({username: 'accountname', password: 'password'}).then(
   function(data) {
     token = data.body.access_token;
     console.log('API call completed on promise resolve: ', data.body.access_token);
